@@ -67,7 +67,7 @@ Selection Sort arranges tickets alphabetically by requester name by repeatedly s
 ![Processing a Ticket]([screenshots/06-process-ticket.png](https://1drv.ms/i/c/743fd89f8ea2c58d/IQDzmh356xP2RoQokdvOS4VOAXIXTiMxpdt9inkELCehrjU?e=jj4eol))
 
 ## Developer
-Dwayne Kaiser Menodza
+Dwayne Kaiser Mendoza
 
-## Repository
-This project was created as a Data Structures and Algorithms capstone project.
+## Conclusion
+The IT Help Desk Ticketing System demonstrates how data structures and sorting algorithms can be applied to a practical application. Using ArrayLists, a FIFO queue, Bubble Sort, and Selection Sort, the program organizes and manages IT support tickets efficiently. This project helped us understand the importance of proper data organization, queue operations, and sorting techniques in developing a functional Java application.
