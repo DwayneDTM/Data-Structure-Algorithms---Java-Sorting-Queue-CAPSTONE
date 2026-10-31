@@ -48,10 +48,26 @@ Selection Sort arranges tickets alphabetically by requester name by repeatedly s
    ```
 
 ## Screenshots
-Add screenshots of the running program here, including the main menu, adding a ticket, displaying the queue, sorting tickets, searching for a ticket, and processing a ticket.
+### Main Menu
+![Main Menu]([Screenshot 2026-10-31 225808.png](https://1drv.ms/i/c/743fd89f8ea2c58d/IQD_56BCX3kQRoxDVq0OtciqAVmlhhpc-SUhHYhTipU6NxQ?e=nsUugH))
 
-## Developers
-[Add your name and group members here.]
+### Adding a Ticket
+![Adding a Ticket]([screenshots/02-add-ticket.png](https://1drv.ms/i/c/743fd89f8ea2c58d/IQAcR8x4ABwETY-yrNOHqpLLATrPBwBDjnNkkfYNoRBJ0lA?e=cZzwIu))
+
+### Displaying the Queue
+![Displaying the Queue]([screenshots/03-display-queue.png](https://1drv.ms/i/c/743fd89f8ea2c58d/IQD-yldJ5ruwSYCCuzBlHlo-AeqcazRNJtDGwNJ4-gDDQbU?e=gUk5Zw))
+
+### Sorting Tickets
+![Bubble Sort]([screenshots/04-bubble-sort.png](https://1drv.ms/i/c/743fd89f8ea2c58d/IQDzmh356xP2RoQokdvOS4VOAXIXTiMxpdt9inkELCehrjU?e=jj4eol))
+
+### Searching for a Ticket
+![Searching for a Ticket]([screenshots/05-search-ticket.png](https://1drv.ms/i/c/743fd89f8ea2c58d/IQDzmh356xP2RoQokdvOS4VOAXIXTiMxpdt9inkELCehrjU?e=jj4eol))
+
+### Processing a Ticket
+![Processing a Ticket]([screenshots/06-process-ticket.png](https://1drv.ms/i/c/743fd89f8ea2c58d/IQDzmh356xP2RoQokdvOS4VOAXIXTiMxpdt9inkELCehrjU?e=jj4eol))
+
+## Developer
+Dwayne Kaiser Menodza
 
 ## Repository
 This project was created as a Data Structures and Algorithms capstone project.
